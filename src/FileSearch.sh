@@ -1,4 +1,6 @@
 #! /bin/bash
+#version:1.0
+#author:lc
 read -t 20 -p "Please enter the folder you want to search :" folderName
 read -t 20 -p "Please enter your search content :" content  
 retrieveFiles (){
